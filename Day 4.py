@@ -1,0 +1,11 @@
+list = ["Prail", "Abishek", "Kenji"]
+list.append("Shrestha")
+list.insert(0,"Akiro")
+# print(list)
+# print(list[-1:-2])
+print(list[::])
+print(list[1:4])
+print(list[:3])
+print(list[4:1])
+print(list[1:1])
+print(list[0:4:-1])
